@@ -11,3 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: geometricPrecision;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
